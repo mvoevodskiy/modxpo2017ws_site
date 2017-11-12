@@ -1,0 +1,5 @@
+Changelog for modxpo2017ws_site.
+
+0.0.1-alpha
+==============
+- Blank package
